@@ -1,0 +1,19 @@
+{
+  "name": "x-gif",
+  "authors": [
+    "Glen Maddern <glenmaddern@gmail.com>"
+  ],
+  "main": "dist/x-gif.html",
+  "description": "The GIF element the internet deserves",
+  "license": "MIT",
+  "keywords": [
+    "web-components"  
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
